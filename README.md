@@ -26,4 +26,4 @@ I'm a C++ developer and graphics programmer based in Heidelberg, Germany. I'm pa
 <a href="https://twitter.com/Crypto___Sai"><img align="left" alt="Twitter" width="22px" src="https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/twitter.svg" /></a>
 <a href="https://www.reddit.com/user/Crypto-Sai"><img align="left" alt="Reddit" width="22px" src="https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/reddit.svg" /></a>
 <a href="https://www.youtube.com/channel/UCTHUHhoCeqcZLG-8WPTfWpA"><img align="left" alt="YouTube" width="22px" src="https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/youtube.svg" /></a>
-<a href="https://app.thestorygraph.com/profile/Crypto-Sai"><img align="left" alt="StoryGraph" width="22px" src="https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/storygraph.png" /></a>
+<a href="https://app.thestorygraph.com/profile/crypto_sai"><img align="left" alt="StoryGraph" width="22px" src="https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/storygraph.png" /></a>
