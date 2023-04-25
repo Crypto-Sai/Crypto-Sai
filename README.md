@@ -16,14 +16,14 @@ Currently Working On
 🌟 Exploring graphics optimization techniques and design patterns.
 
 Socials
-<img align="left" alt="IG" width="22px" src="https://raw.githubusercontent.com/Crypto-Sai/README/main/icons/instagram.svg" />
+<img align="left" alt="IG" width="22px" src="https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/instagram.svg" />
 <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/Crypto-Sai/README/main/icons/twitter.svg" />
 <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/Crypto-Sai/README/main/icons/reddit.svg" />
 <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/Crypto-Sai/README/main/icons/youtube.svg" />
 <img align="left" alt="StoryGraph" width="22px" src="https://raw.githubusercontent.com/Crypto-Sai/README/main/icons/storygraph.png" />
 
 GitHub Stats
-https://github.com/Crypto-Sai/Crypto-Sai/blob/main/icons/reddit.svg
+
 Top Langs
 
 Crypto-Sai's GitHub stats
