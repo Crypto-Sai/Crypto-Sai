@@ -9,7 +9,9 @@ I'm a C++ developer and graphics programmer based in Heidelberg, Germany. I'm pa
 
 
 📫 You can reach me on Discord at Crypto-Sai#5422.
+
 📚 I love reading science fiction, fantasy, and horror books in my free time.
+
 🌐 My username has nothing to do with cryptocurrency, by the way!
 
 ### Currently Working On
