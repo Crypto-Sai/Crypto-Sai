@@ -1,6 +1,6 @@
 # Hi there, I'm Crypto-Sai! 👋
 
-I'm a C++ developer and graphics programmer based in Heidelberg, Germany. I'm passionate about game development, 3D graphics, and creating engaging user experiences. Currently, I'm actively looking for a job.
+I'm a C++ developer and graphics programmer based in Heidelberg, Germany. I'm passionate about game development, 3D graphics, and creating engaging user experiences.
 
 ### About Me
 - I specialize in game engine development using Vulkan and C++.
