@@ -1,4 +1,4 @@
-# Hi there, I'm Crypto-Sai! 👋
+# Hi there, I'm Sai! 👋
 
 I'm a C++ developer and graphics programmer based in Heidelberg, Germany. I'm passionate about game development, 3D graphics, and creating engaging user experiences.
 
