@@ -12,8 +12,6 @@ I'm a C++ developer and graphics programmer based in Heidelberg, Germany. I'm pa
 
 📚 I love reading science fiction, fantasy, and horror books in my free time.
 
-🌐 My username has nothing to do with cryptocurrency, by the way!
-
 ### Currently Working On
 - Developing my skills in Vulkan API and C++ Concurrency
 - Working on a game engine using OpenGL and C++ 🎮
